@@ -35,5 +35,6 @@ build/
 logs/
 *.log
 application*.properties
+!src/main/resources/application-example.properties
 application*.yml
 .env
